@@ -63,15 +63,15 @@ dependencies:
   - lark=1.3.1=pyhd8ed1ab_0
   - libexpat=2.7.5=hac47afa_0
   - libffi=3.5.2=h3d046cb_0
-  - liblzma=5.8.2=hfd05255_0
+  - liblzma=5.8.3=hfd05255_0
   - libsodium=1.0.21=h6a83c73_3
-  - libsqlite=3.52.0=hf5d6505_0
+  - libsqlite=3.53.0=hf5d6505_0
   - libzlib=1.3.2=hfd05255_2
   - markupsafe=3.0.3=py311h3f79411_1
   - matplotlib-inline=0.2.1=pyhd8ed1ab_0
   - mistune=3.2.0=pyhcf101f3_0
   - nbclient=0.10.4=pyhd8ed1ab_0
-  - nbconvert-core=7.17.0=pyhcf101f3_0
+  - nbconvert-core=7.17.1=pyhcf101f3_0
   - nbformat=5.10.4=pyhd8ed1ab_1
   - nest-asyncio=1.6.0=pyhd8ed1ab_1
   - notebook-shim=0.2.4=pyhd8ed1ab_1
@@ -81,8 +81,8 @@ dependencies:
   - pandocfilters=1.5.0=pyhd8ed1ab_0
   - parso=0.8.6=pyhcf101f3_0
   - pip=26.0.1=pyh8b19718_0
-  - platformdirs=4.9.4=pyhcf101f3_0
-  - prometheus_client=0.24.1=pyhd8ed1ab_0
+  - platformdirs=4.9.6=pyhcf101f3_0
+  - prometheus_client=0.25.0=pyhd8ed1ab_0
   - prompt-toolkit=3.0.52=pyha770c72_0
   - psutil=7.2.2=py311hf893f09_0
   - pure_eval=0.2.3=pyhd8ed1ab_1
@@ -141,35 +141,23 @@ dependencies:
   - pip:
       - absl-py==2.4.0
       - astunparse==1.6.3
-      - contourpy==1.3.3
-      - cycler==0.12.1
       - flatbuffers==25.12.19
-      - fonttools==4.62.1
       - gast==0.7.0
       - google-pasta==0.2.0
       - grpcio==1.80.0
       - h5py==3.14.0
-      - joblib==1.5.3
-      - jupyterlab-materialdarker-theme==0.1.5
       - keras==3.14.0
-      - kiwisolver==1.5.0
       - libclang==18.1.1
       - markdown-it-py==4.0.0
-      - matplotlib==3.10.8
       - mdurl==0.1.2
       - ml-dtypes==0.5.4
       - namex==0.1.0
       - numpy==2.4.4
       - opt-einsum==3.4.0
       - optree==0.19.0
-      - pillow==12.2.0
       - protobuf==7.34.1
-      - pyparsing==3.3.2
       - rich==14.3.3
-      - scikit-learn==1.8.0
-      - scipy==1.17.1
       - tensorflow==2.21.0
       - termcolor==3.3.0
-      - threadpoolctl==3.6.0
       - wrapt==2.1.2
-prefix: C:\Users\user\miniconda3\envs\tf-311
+prefix: C:\Users\kabar\miniconda3\envs\tf-311
