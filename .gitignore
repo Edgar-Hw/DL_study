@@ -12,3 +12,4 @@ ENV/
 *.log
 Thumbs.db
 .DS_Store
+*.csv
